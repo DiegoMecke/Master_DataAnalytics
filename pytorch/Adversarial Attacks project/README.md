@@ -1,4 +1,4 @@
-#Project overview
+# Project overview
 
 This project will be focused on identifying the impact of different attack strategies (FGSM, FFGSM, PGD, ...) as weel as using different representation spaces to
 generate those perturbations (Pixel, Discrete Cosine Transform, Discrete Fourier Transform, ...).
