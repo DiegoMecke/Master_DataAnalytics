@@ -1,4 +1,5 @@
 # Model performance Analysis
+### By: Diego Coello de Portugal Mecke
 
 This notebook aims to asses the performance of the model in a classification setting.
 
