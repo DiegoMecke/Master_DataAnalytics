@@ -9,7 +9,7 @@ while the tensorflow projects are shorter but are more and tackle a wider range 
 
 Most of the projects will be done in python notebooks to facilitate the explanation of the project setting, the code developed and the explanation of the conclusions.
 
-A short overview of the projects:
+Lastly, you can find a short overview of the projects:
 
 ## Pytorch:
  - **Active Learning Project** : Reimplementation of an Active Learning paper.
