@@ -20,3 +20,4 @@ A short overview of the projects:
  - **Model Performance Analysis** : Analysis of the preformance a simple classification model on CIFAR10.
  - **Time Series classification and RNNs** : Classification of multivariate time series of human movements using LSTM and GRU.
  - **Training Pipeline**: Simple introductory notebook on how to develop basic functionalities for Neural Networks instead of using the default ones.
+ - **Variational Autoencoders and Image generation**: Experiments on autoencoders, variational autoencoders (VAE) and how to generate images from VAE latent space.
