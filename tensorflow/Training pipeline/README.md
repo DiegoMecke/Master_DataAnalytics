@@ -1,4 +1,5 @@
 # Introduction to Tensorflow : Set training pipeline
+### By: Diego Coello de Portugal Mecke
 
 This notebook aims to create model trainning pipeline without using standard tensorflow functionalities.
 
