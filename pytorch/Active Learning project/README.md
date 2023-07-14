@@ -1,7 +1,7 @@
-# Project overview.
+# Active Learning project
+### By: Diego Coello de Portugal Mecke
 
-This project aims to reproduce the findings of "The power of Ensembles for Active Learning in Image Classification" from William H. Beluch; Tim Genewein; Andreas Nurnberger; Jan M. Kohler.
-More information about this paper can be find in the link: https://ieeexplore.ieee.org/document/8579074
+This project aims to reproduce the findings of ["The power of Ensembles for Active Learning in Image Classification"](https://ieeexplore.ieee.org/document/8579074) from William H. Beluch; Tim Genewein; Andreas Nurnberger; Jan M. Kohler.
 
 There are two main files:
 
