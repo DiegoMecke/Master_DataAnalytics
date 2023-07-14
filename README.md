@@ -13,7 +13,7 @@ A short overview of the projects:
 
 ## Pytorch:
  - **Active Learning Project** : Reimplementation of an Active Learning paper.
- - **Adversarial Attacks project** : 1 year project with some of my fellow students about Adversarial Attacks across Representation Spaces.
+ - **Adversarial Attacks project** : 1 year project with some of my fellow master students about Adversarial Attacks across Representation Spaces.
 
 ## Tensorflow:
  - **Image Segmentation with U-Net**: Image segmentation of pets using a U-Net architecture based model.
