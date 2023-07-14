@@ -8,3 +8,15 @@ In general, the pytorch projects are less but more complex (including a 1 year r
 while the tensorflow projects are shorter but are more and tackle a wider range of subtopics of the Machine Learning field.
 
 Most of the projects will be done in python notebooks to facilitate the explanation of the project setting, the code developed and the explanation of the conclusions.
+
+A short overview of the projects:
+
+## Pytorch:
+ - ### Active Learning Project: Reimplementation of an Active Learning paper.
+ - ### Adversarial Attacks project: 1 year project with some of my fellow students about Adversarial Attacks across Representation Spaces.
+
+## Tensorflow:
+ - ### Image Segmentation with U-Net: Image segmentation of pets using a U-Net architecture based model.
+ - ### Model Performance Analysis: Analysis of the preformance a simple classification model on CIFAR10.
+ - ### Time Series classification and RNNs: Classification of multivariate time series of human movements using LSTM and GRU.
+ - **Training Pipeline**: Simple introductory notebook on how to develop basic functionalities for Neural Networks instead of using the default ones.
