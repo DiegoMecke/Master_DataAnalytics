@@ -11,4 +11,4 @@ The trainning will be stopped at 20 iterations due to time constrains. Different
 
 Lastly, there will be a short experiment on finetuning.
 
-Note: The dataset was to heavy to upload it on github. In the notebook you will find a cell commented which can be runned on Google Colab to obtain the dataset and run the project locally.
+Note: The dataset is to heavy to upload it on github. In the notebook you will find a cell commented which can be runned on Google Colab to obtain .zip file of the dataset to then run the project locally.
