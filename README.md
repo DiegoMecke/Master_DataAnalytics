@@ -4,7 +4,7 @@
 
 This repository is a collection of some of my past projects in Machine Learning.
 
-In general, the pytorch projects are less but more complex (including a 1 year research with some of my colleges and my master thesis first steps on Active Learning),
+In general, there are less pytorch projects but they are more complex (including a 1 year research with some of my colleges and my master thesis on Active Learning),
 while the tensorflow projects are shorter but are more and tackle a wider range of subtopics of the Machine Learning field.
 
 Most of the projects will be done in python notebooks to facilitate the explanation of the project setting, the code developed and the explanation of the conclusions.
@@ -12,7 +12,9 @@ Most of the projects will be done in python notebooks to facilitate the explanat
 Lastly, you can find a short overview of the projects:
 
 ## Pytorch:
- - **Active Learning Project** : Reimplementation of an Active Learning paper.
+ - **Active Learning Project** :
+    - Reimplementation of an Active Learning paper.
+    
  - **Adversarial Attacks project** : 1 year project with some of my fellow master students about Adversarial Attacks across Representation Spaces.
 
 ## Tensorflow:
