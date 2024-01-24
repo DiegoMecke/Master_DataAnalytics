@@ -12,8 +12,7 @@ Most of the projects will be done in python notebooks to facilitate the explanat
 Lastly, you can find a short overview of the projects:
 
 ## Pytorch:
- - **Active Learning Project** :
-    - Reimplementation of an Active Learning paper.
+ - **Active Learning Project** : Reimplementation of an Active Learning paper.
     
  - **Adversarial Attacks project** : 1 year project with some of my fellow master students about Adversarial Attacks across Representation Spaces.
 
