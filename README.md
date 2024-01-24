@@ -17,8 +17,8 @@ Lastly, you can find a short overview of the projects:
  - **Adversarial Attacks project** : 1 year project with some of my fellow master students about Adversarial Attacks across Representation Spaces.
 
 ## Tensorflow:
- - **Image Segmentation with U-Net**: Image segmentation of pets using a U-Net architecture based model.
- - **Model Performance Analysis** : Analysis of the preformance a simple classification model on CIFAR10.
+ - **Image Segmentation with U-Net**: Image segmentation of Pets dataset using a U-Net architecture.
+ - **Model Performance Analysis** : Analysis of the performance of a simple classification model on CIFAR10.
  - **Time Series classification and RNNs** : Classification of multivariate time series of human movements using LSTM and GRU.
  - **Training Pipeline**: Simple introductory notebook on how to develop basic functionalities for Neural Networks instead of using the default ones.
  - **Variational Autoencoders and Image generation**: Experiments on autoencoders, variational autoencoders (VAE) and how to generate images from VAEs latent space.
