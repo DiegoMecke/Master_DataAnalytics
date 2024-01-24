@@ -2,7 +2,7 @@
 
 ### By: Diego Coello de Portugal Mecke
 
-This repository is a collection of some of my past projects in Machine Learning (pulished versions from projects in the Data Anlytics master in Hildesheim university).
+This repository is a collection of some of my past projects in Machine Learning (pulished versions from projects in the Data Anlytics master in Hildesheim University).
 
 All the code is in python, with the majority using Pytorch or Tensorflow. There are less Pytorch projects but they are more complex (including a 1 year research with some of my colleges and my master thesis on Active Learning),
 while the Tensorflow projects are shorter but are more and tackle a wider range of subtopics of the Machine Learning field.
